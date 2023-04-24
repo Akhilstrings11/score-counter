@@ -1,0 +1,38 @@
+body{
+    background-image: image();
+}
+.header h1{
+    background-color: green;
+    text-align: center;
+}
+
+.scorePage{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.rcb{
+    color: red;
+    background: yellow;
+}
+
+.csk{
+    color: rgb(255, 255, 7);
+    background: red;
+}
+
+.body button{
+    margin-left: 5px;
+    color: green;
+}
+
+.body button:hover{
+cursor: pointer;
+background-color: white;
+color: black;
+}
+
+.body button{
+    padding: 5px;
+}
